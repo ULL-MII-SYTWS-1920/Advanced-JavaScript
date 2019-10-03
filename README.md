@@ -8,6 +8,10 @@ In this course, you will gain a deep understanding of JavaScript. You will learn
 
 Advanced JavaScript by **Zachary Shute**
 
+## PuntoQ ULL
+
+* [Advanced JavaScript. Zachary Shute 2019](https://puntoq-ull-es.accedys2.bbtk.ull.es/primo-explore/fulldisplay?docid=ullsfx4100000007593934&context=L&vid=ull&lang=es_ES&search_scope=ull_sfxebooks&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,javascript&sortby=date&offset=0)
+
 ## What you will learn
 *	Examine major features in ES6 and implement those features to build applications
 *   Create promise and callback handlers to work with asynchronous processes
